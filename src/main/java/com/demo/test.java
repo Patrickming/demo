@@ -12,6 +12,7 @@ public class test {
         System.out.println("hello git3 ");
         System.out.println("master git ");
         System.out.println("demo git ");
+        System.out.println("push test ");
 
     }
 }
